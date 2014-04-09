@@ -1,0 +1,14 @@
+[
+{
+  "modid": "helperAPI",
+  "name": "Helper API",
+  "description": "The Helper API is meant for modders to make their life easier !",
+  "version": "v0.1B",
+  "mcversion": "1.7",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["sls"],
+  "credits": "sls",
+  "logoFile": "/logo.png"
+}
+]
